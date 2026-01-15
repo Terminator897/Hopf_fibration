@@ -39,5 +39,6 @@ Visualizing the result as nested tori composed of Villarceau circles.
 <img width="768" height="529" alt="Screenshot 2026-01-16 010655" src="https://github.com/user-attachments/assets/351d75d3-596c-4078-a484-b034d7196548" />
 
 
+Author: @LyudmilaSutotskaya 
 
-
+Affiliation: Faculty of Geology, MSU, Moscow
