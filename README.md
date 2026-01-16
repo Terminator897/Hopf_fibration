@@ -3,8 +3,6 @@ It presents the entire mathematical essence of the problem in Russian laungage.
 
 Hopf Fibration: Visualizing the 3-SphereThis project provides a topological and geometric exploration of the Hopf Fibration, a way to represent the 3D sphere ($S^3$) as a collection of interlocking circles organized over a 2D sphere ($S^2$)
 
-1.roject OverviewT
-
 The 3D sphere is an object existing in 4D space, making it impossible to visualize directly2. This project breaks down the structure of such objects using the concept of Fiber Bundles (foliation), moving from simple examples to the complex Hopf Fibration.
 
 Key Concepts Covered:
